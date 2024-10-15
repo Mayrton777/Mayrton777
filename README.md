@@ -1,6 +1,6 @@
 # Olá Mundo! 👋
 
-Meu nome é Mayrton Eduardo, estudante de Ciências da Computação e desenvolvedor Full-Stack.
+Meu nome é Mayrton Eduardo, estudante de Ciências da Computação e desenvolvedor Back-End.
 
 [![card](https://github-readme-stats.vercel.app/api?username=Mayrton777&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

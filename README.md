@@ -1,4 +1,8 @@
-## 🛠 Arsenal Tecnológico
+# Mayrton Eduardo | Full Stack Developer
+
+Sou desenvolvedor com foco em soluções robustas utilizando **.NET** e **Python (Flask/Django)**. Tenho experiência em todo o ciclo de vida de desenvolvimento (SDLC) e expertise em análise de dados geoespaciais adquirida em projetos para o setor de telecomunicações.
+
+## 🛠 Tecnologias & Ferramentas
 
 ### Back-End & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,4 +26,20 @@
 
 ### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+## 🚀 Projetos Principais
+
+#### [Cálculo de Mudança de Classe](Link-do-Repo)
+Aplicação Desktop que automatiza cálculos para antenas, consumindo APIs do Banco Central e gerando relatórios técnicos em PDF com mapas.
+**Techs:** Python, Tkinter, GeoPandas, Matplotlib.
+
+#### [API de Cálculo de Área Negada](Link-do-Repo)
+API para processamento de intensidade de sinal e delimitação de borda de célula de telecomunicações[cite: 22, 23].
+**Techs:** Python, MongoDB, NumPy.
+
+---
+
+### 📫 Contato
+[Link para LinkedIn](https://www.linkedin.com/in/mayrton-eduardo-silva-rocha) | mayrtontrabalho@gmail.com

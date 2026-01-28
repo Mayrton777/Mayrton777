@@ -36,7 +36,7 @@ Aplicação Desktop que automatiza cálculos para antenas, consumindo APIs do Ba
 **Techs:** Python, Tkinter, GeoPandas, Matplotlib.
 
 #### [API de Cálculo de Área Negada](Link-do-Repo)
-API para processamento de intensidade de sinal e delimitação de borda de célula de telecomunicações[cite: 22, 23].
+API para processamento de intensidade de sinal e delimitação de borda de célula de telecomunicações.
 **Techs:** Python, MongoDB, NumPy.
 
 ---

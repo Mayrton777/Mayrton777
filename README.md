@@ -37,11 +37,12 @@ API RESTful para processamento de transações financeiras focada em **robustez 
 Aplicação Desktop que automatiza cálculos complexos para antenas de telecomunicação, reduzindo tempo manual de engenharia.
 - **Techs:** Python, Tkinter, GeoPandas, Integração com API do Banco Central.
 
-#### [API de Cálculo de Área Negada](Link-do-Repo)
-API para processamento de intensidade de sinal e delimitação de borda de célula de telecomunicações[cite: 22, 23].
-**Techs:** Python, MongoDB, NumPy.
+#### [API de Cálculo de Área Negada](Link-do-Repo-Area)
+Solução de processamento geoespacial para análise de intensidade de sinal e delimitação de células.
+- **Techs:** Python, MongoDB, NumPy.
 
 ---
 
 ### 📫 Contato
-[Link para LinkedIn](https://www.linkedin.com/in/mayrton-eduardo-silva-rocha) | mayrtontrabalho@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayrton-eduardo-silva-rocha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayrtontrabalho@gmail.com)

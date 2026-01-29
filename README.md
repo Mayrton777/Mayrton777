@@ -1,45 +1,48 @@
-# Mayrton Eduardo | Full Stack Developer
+# Mayrton Eduardo | Back-End & Full Stack Developer
 
-Sou desenvolvedor com foco em soluções robustas utilizando **.NET** e **Python (Flask/Django)**. Tenho experiência em todo o ciclo de vida de desenvolvimento (SDLC) e expertise em análise de dados geoespaciais adquirida em projetos para o setor de telecomunicações.
+Sou estudante de Ciência da Computação e desenvolvedor com foco em **Arquitetura de Software** e soluções escaláveis.
 
-## 🛠 Tecnologias & Ferramentas
+Tenho forte base em **.NET** para construção de APIs resilientes (foco em Clean Architecture e Testes Automatizados) e expertise em **Python** aplicada a análise de dados e automação, consolidada durante minha atuação no setor de telecomunicações (ANATEL).
 
-### Back-End & Frameworks
+## 🛠 Tech Stack
+
+### Back-End & Architecture
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Arch-000?style=for-the-badge&logo=readthedocs&logoColor=white)
 
-### Banco de Dados & Data Science
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Front-End & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevOps & Ferramentas
+### Quality Assurance & DevOps
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 🚀 Projetos Principais
+### Front-End & Data
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### [Cálculo de Mudança de Classe](Link-do-Repo)
-Aplicação Desktop que automatiza cálculos para antenas, consumindo APIs do Banco Central e gerando relatórios técnicos em PDF com mapas.
-**Techs:** Python, Tkinter, GeoPandas, Matplotlib.
+## 🚀 Projetos em Destaque
 
-#### [API de Cálculo de Área Negada](Link-do-Repo)
-API para processamento de intensidade de sinal e delimitação de borda de célula de telecomunicações[cite: 22, 23].
-**Techs:** Python, MongoDB, NumPy.
+#### [Payment API - Sistema de Pagamentos Resiliente](Link-do-Repo-Payment)
+API RESTful para processamento de transações financeiras focada em **robustez e consistência**.
+- **Arquitetura:** Implementada com Clean Architecture e princípios SOLID.
+- **Destaque Técnico:** Uso de **Redis** para garantir **Idempotência** (evitando cobranças duplicadas) e **xUnit + Moq** para testes unitários isolados.
+- **Techs:** .NET 9, SQL Server, Docker Compose, Redis, Entity Framework Core.
+
+#### [Cálculo de Mudança de Classe (Anatel)](Link-do-Repo-Anatel)
+Aplicação Desktop que automatiza cálculos complexos para antenas de telecomunicação, reduzindo tempo manual de engenharia.
+- **Techs:** Python, Tkinter, GeoPandas, Integração com API do Banco Central.
+
+#### [API de Cálculo de Área Negada](Link-do-Repo-Area)
+Solução de processamento geoespacial para análise de intensidade de sinal e delimitação de células.
+- **Techs:** Python, MongoDB, NumPy.
 
 ---
 
 ### 📫 Contato
-[Link para LinkedIn](https://www.linkedin.com/in/mayrton-eduardo-silva-rocha) | mayrtontrabalho@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayrton-eduardo-silva-rocha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayrtontrabalho@gmail.com)

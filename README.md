@@ -27,17 +27,17 @@ Tenho forte base em **.NET** para construção de APIs resilientes (foco em Clea
 
 ## 🚀 Projetos em Destaque
 
-#### [Payment API - Sistema de Pagamentos Resiliente](Link-do-Repo-Payment)
+#### [Payment API - Sistema de Pagamentos Resiliente](https://github.com/Mayrton777/Payment-Gateway-Simulator)
 API RESTful para processamento de transações financeiras focada em **robustez e consistência**.
 - **Arquitetura:** Implementada com Clean Architecture e princípios SOLID.
 - **Destaque Técnico:** Uso de **Redis** para garantir **Idempotência** (evitando cobranças duplicadas) e **xUnit + Moq** para testes unitários isolados.
 - **Techs:** .NET 9, SQL Server, Docker Compose, Redis, Entity Framework Core.
 
-#### [Cálculo de Mudança de Classe (Anatel)](Link-do-Repo-Anatel)
+#### [Cálculo de Mudança de Classe (Anatel)](https://github.com/Mayrton777/calculo_promocao_classe_windows)
 Aplicação Desktop que automatiza cálculos complexos para antenas de telecomunicação, reduzindo tempo manual de engenharia.
 - **Techs:** Python, Tkinter, GeoPandas, Integração com API do Banco Central.
 
-#### [API de Cálculo de Área Negada](Link-do-Repo-Area)
+#### [API de Cálculo de Área Negada](https://github.com/Mayrton777/Espaco_Geometrico_Negado)
 Solução de processamento geoespacial para análise de intensidade de sinal e delimitação de células.
 - **Techs:** Python, MongoDB, NumPy.
 
